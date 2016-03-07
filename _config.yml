@@ -1,0 +1,28 @@
+name: PlayingBig
+favicon: null
+layout_spectrum: 0.3744970574043691
+typography_spectrum: 0.39050143118947744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.48563324729911983
+  lightness: 0.9568107326049358
+  saturation: 0.7850743152666837
+  rhythmicContrast: 0.7539948406629264
+purpose: []
