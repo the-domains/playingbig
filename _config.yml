@@ -1,7 +1,7 @@
 name: PlayingBig
 favicon: null
-layout_spectrum: 0.3744970574043691
-typography_spectrum: 0.39050143118947744
+layout_spectrum: 0.88142
+typography_spectrum: 0.53138
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.48563324729911983
+  brandStrength: 0.25
   lightness: 0.9568107326049358
-  saturation: 0.7850743152666837
+  saturation: 0.375
   rhythmicContrast: 0.7539948406629264
 purpose: []
